@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1757270471 source:c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho ii\exercicio_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DinEn_CirOrd_FPA.h"
+
+1757270462 source:c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho ii\exercicio_4\dinen_cirord_fpa.c
+	"DinEn_CirOrd_FPA.h"
+	<stdlib.h>
+
+1757270467 c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho ii\exercicio_4\dinen_cirord_fpa.h
+
