@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1757705818 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho_2_iury_pedrosa\trabalho_fila_pilha_ed_1\exercicio_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tad.h"
+
+1757705537 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho_2_iury_pedrosa\trabalho_fila_pilha_ed_1\exercicio_3\tad.h
+	<time.h>
+
+1757705822 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho_2_iury_pedrosa\trabalho_fila_pilha_ed_1\exercicio_3\tad.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
